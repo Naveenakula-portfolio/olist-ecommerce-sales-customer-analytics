@@ -1,15 +1,7 @@
-
-# Raw datasets
-data/raw/
+# Raw data is downloaded separately; check license before redistributing
+data/raw/*.csv
 *.zip
-
-# Python cache
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-
-# Local databases
 *.db
-
-# System files
+__pycache__/
+.ipynb_checkpoints/
 .DS_Store
